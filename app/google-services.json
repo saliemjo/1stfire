@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336434384313",
+    "project_id": "stfire-c8e20",
+    "storage_bucket": "stfire-c8e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336434384313:android:64cf286248fcab883a3a68",
+        "android_client_info": {
+          "package_name": "com.example.a1stfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336434384313-4ghm8kkp2veru5bdr0k72g29duoq2232.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6wse0x-bR7xQNWD6NhCKYlL_Be6G81RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336434384313-4ghm8kkp2veru5bdr0k72g29duoq2232.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
